@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercise 13 - Number Of Days In Month" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 1 - Speed Converter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 10 - Equality Printer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 11 - Playing Cat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 12 - Number In Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 14 - Sum Odd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 15 - Number Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 16 - First And Last Digit Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 17 - Even Digit Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 18 - Shared Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 19 - Last Digit Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 2 - MegaBytes Converter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 20 - Greatest Common Divisor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 21 - All Factors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 22 - Prefect Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 23 - Number To Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 24 - Flour Pack Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 25 - Largest Prime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 26 - Diagonal Star" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 27 - Input Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 28 - Paint Job" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 29 - Sum Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 3 - Barking Dog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 30 - Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 31 - Wall Area" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 32 - Point" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 33 - Carpet Cost Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 34 - Complex Operation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 35 - Cylinder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 36 - Pool Area" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 37 - Composition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 38 - Encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 39 - Polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 4 - Leap Year Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 40 - Bill's Burgers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 41 - Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 42- Minimum Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 43 - Reverse Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 44 - Mobile Phone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 45 - Banking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 46 - Playlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 47 - Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 48 - Playlist - Inner Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 49 - Abstract Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 5 - Decimal Comparator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 50 - Adventure Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 6 - Equal Sum Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 7 - Teen Number Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 8 - Area Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Exercises 9 - Minutes to Years and Days Calculator" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
